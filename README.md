@@ -25,7 +25,7 @@ Kebijakan harga BBM selalu memicu reaksi sensitif karena berdampak langsung pada
 ---
 ## Workflow N8N Analisis Sentimen Publik Terhadap Kenaikan Harga BBM Pada Platform Youtube
 ---
-[Workflow N8N Analisis Sentimen Publik Terhadap Kenaikan Harga BBM Pada Platform Youtube](n8n_analisis_sentimen.jpeg)
+![Workflow N8N Analisis Sentimen Publik Terhadap Kenaikan Harga BBM Pada Platform Youtube](n8n_analisis_sentimen.jpeg)
 
 
 ## Fitur Utama & Visualisasi Dashboard Metabase
